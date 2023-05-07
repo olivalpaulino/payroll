@@ -21,6 +21,6 @@ Aqui, o desenvolvedor joga a responsabilidade para o Spring Boot, das atividades
 
 
 Espero que tenha gostado dessa nossa primeira aula. Abaixo deixo os links dos conteúdos que foram apresentados nela:
-﻿- Página principal do ﻿Spring: https://spring.io/
-﻿- Construindo uma API Rest com Spring: https://spring.io/guides/tutor...
-﻿- Spring Initializr: https://start.spring.io/
+>- Página principal do Spring: https://spring.io/
+>- Construindo uma API Rest com Spring: https://spring.io/guides/tutor...
+>- Spring Initializr: https://start.spring.io/
